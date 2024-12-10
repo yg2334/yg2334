@@ -58,8 +58,8 @@ I'm a **Graduate Student** pursuing a Master's degree in Computer Science at **U
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/yudhir-gala/)
-- [GitHub](https://github.com/yg2334)
-- Email: [ygala@ucsd.edu](mailto:ygala@ucsd.edu)
+<!-- - [GitHub](https://github.com/yg2334)
+- Email: [ygala@ucsd.edu](mailto:ygala@ucsd.edu) -->
 
 ---
 
