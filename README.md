@@ -18,10 +18,12 @@ I'm a **Graduate Student** pursuing a Master's degree in Computer Science at **U
   - Front-End Web Development (HKUST U, Coursera, 2021)
   - Neural Networks & Deep Learning (DeepLearning.ai, 2022)
 
+<!--
 ## 📈 My GitHub Stats
 ![Yudhir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yg2334&show_icons=true&theme=radical)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yg2334&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 ## 🚀 Featured Projects
 ### 1. **[SurfStore : DropBox Based Clone](https://github.com/yg2334/fault-tolerant-NFS)**
