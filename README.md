@@ -50,8 +50,7 @@ I'm a **Graduate Student** pursuing a Master's degree in Computer Science at **U
 ## 🎓 Education
 - **University of California, San Diego** (2023-2025)
   - Master's in Computer Science
-  - **Selected Coursework:**
-    - Computer Vision, Recommender Systems, Probabilistic Reasoning, Data Systems for ML, Design & Analysis of Algorithms, Statistical NLP, Networked Systems, Parallel Computation
+  - Selected Coursework: Computer Vision, Recommender Systems, Probabilistic Reasoning, Data Systems for ML, Design & Analysis of Algorithms, Statistical NLP, Networked Systems, Parallel Computation
 
 - **University of Mumbai** (2019-2023)
   - Bachelor's in Computer Engineering
