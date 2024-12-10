@@ -11,7 +11,7 @@ I'm a **Graduate Student** pursuing a Master's degree in Computer Science at **U
 
 ## 🛠️ Technical Skills
 - **Languages:** C, C++, Python, JavaScript, Java
-- **Frameworks:** MERN Stack, Flask, Tornado
+- **Frameworks:** MERN Stack, Flask
 - **Tools:** GitHub, Elastic (ELK) Stack, Docker, Pandas, NumPy, PyTorch, D3.js, React.js
 - **Databases:** MySQL, MongoDB, Elasticsearch
 - **Notable MOOCs:**
